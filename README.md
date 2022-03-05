@@ -2,11 +2,11 @@
 
 `terraform-gcp-bootstrap` was created as a means of quickly deploying POCs to Google Cloud Platform using Terraform. It has features for:
 
-* Provider defaults defaults for project and region/zone
+* Provider defaults for project and region/zone
 * Enabling APIs & Services
-* Configuring Remote state
+* Configuring remote state
 
-This project assumes you have some basic Terraform and GCP knowledge. If not, use the below links to get familiar:
+This project assumes you have some basic Terraform and GCP knowledge. If not, use the below links to get yourself familiar:
 
 * [Terraform Introduction](https://www.terraform.io/intro)
 * [Get Started - Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started)
